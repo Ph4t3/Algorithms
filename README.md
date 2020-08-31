@@ -4,3 +4,4 @@
 ## Sorting And Searching
 - [x] Bubble Sort 
 - [x] Insertion Sort 
+- [x] Merge Sort 
