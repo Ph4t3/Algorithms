@@ -6,3 +6,4 @@
 - [x] Insertion Sort 
 - [x] Merge Sort 
 - [x] Heap Sort 
+- [x] Quick Sort 
